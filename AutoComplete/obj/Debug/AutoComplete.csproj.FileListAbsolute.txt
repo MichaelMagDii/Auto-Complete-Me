@@ -1,0 +1,8 @@
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe.config
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\bin\Debug\AutoComplete.pdb
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Form1.resources
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Properties.Resources.resources
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csproj.GenerateResource.Cache
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\obj\Debug\AutoComplete.exe
+C:\Users\DOAA\Desktop\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
